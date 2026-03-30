@@ -21,3 +21,4 @@ A smart desktop application built with Python to help teachers and educational c
 ##  How to Run
 1. Clone the repository:
    ```bash
+git clone [https://github.com/engmohammedhisham/Student-Management-System.git](https://github.com/engmohammedhisham/Student-Management-System.git)
